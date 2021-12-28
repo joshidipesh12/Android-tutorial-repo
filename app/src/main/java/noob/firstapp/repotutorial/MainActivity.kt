@@ -56,16 +56,3 @@ class MainActivity : AppCompatActivity() {
                 || super.onSupportNavigateUp()
     }
 }
-
-//college: {
-//
-//},
-//university: {
-//
-//},
-//school: {
-//
-//},
-//play_school: {
-//
-//}
